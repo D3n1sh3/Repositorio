@@ -92,3 +92,4 @@ let password = "1234";
 console.log("Acceso correcto:",usuario === "admin" && password === "1234");
 
 
+  
